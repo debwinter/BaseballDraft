@@ -7,6 +7,35 @@ class Program
 
         Console.WriteLine("Baseball teams, sorted by name length:");
         teams.OrderBy(x => x.TeamName).OrderBy(x => x.TeamName.Length).ToList().ForEach(x => Console.WriteLine(x.TeamName));
+
+        Console.WriteLine();
+        Console.WriteLine();
+        Console.WriteLine();
+        Console.WriteLine("Sorted by division:");
+        Console.WriteLine();
+        Console.WriteLine("AMERICAN LEAGUE");
+        Console.WriteLine();
+        Console.WriteLine("AL East:");
+        teams.Where(x => x.Division == "AL East").ToList().ForEach(x => Console.WriteLine($"{x.City} {x.TeamName}"));
+        Console.WriteLine();
+        Console.WriteLine("AL Central:");
+        teams.Where(x => x.Division == "AL Central").ToList().ForEach(x => Console.WriteLine($"{x.City} {x.TeamName}"));
+        Console.WriteLine();
+        Console.WriteLine("AL West:");
+        teams.Where(x => x.Division == "AL West").ToList().ForEach(x => Console.WriteLine($"{x.City} {x.TeamName}"));
+        Console.WriteLine();
+        Console.WriteLine();
+        Console.WriteLine("NATIONAL LEAGUE");
+        Console.WriteLine();
+        Console.WriteLine("NL East:");
+        teams.Where(x => x.Division == "NL East").ToList().ForEach(x => Console.WriteLine($"{x.City} {x.TeamName}"));
+        Console.WriteLine();
+        Console.WriteLine("NL Central:");
+        teams.Where(x => x.Division == "NL Central").ToList().ForEach(x => Console.WriteLine($"{x.City} {x.TeamName}"));
+        Console.WriteLine();
+        Console.WriteLine("NL West:");
+        teams.Where(x => x.Division == "NL West").ToList().ForEach(x => Console.WriteLine($"{x.City} {x.TeamName}"));
+        Console.WriteLine();
     }
 
     #region Teams Populater

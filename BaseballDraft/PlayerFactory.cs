@@ -13,7 +13,11 @@ namespace BaseballDraft
 					return new Outfielder(firstName, lastName, position);
 				case "SP" or "RP" or "P" or "PITCHER":
 					return new Pitcher(firstName, lastName);
-				case "C" or "CATCHER":
+				case "RHP":
+					return new Pitcher() { FirstName = firstName, LastName = lastName, RightyLeftySwitch = "righty" };
+                case "LHP":
+                    return new Pitcher() { FirstName = firstName, LastName = lastName, RightyLeftySwitch = "lefty" };
+                case "C" or "CATCHER":
 					return new Catcher(firstName, lastName);
 				default:
 					return new Batter(firstName, lastName);
