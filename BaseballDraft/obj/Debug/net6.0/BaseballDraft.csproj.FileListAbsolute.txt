@@ -1,0 +1,15 @@
+/Users/debrawinter/Desktop/Repos/BaseballDraft/BaseballDraft/bin/Debug/net6.0/BaseballDraft
+/Users/debrawinter/Desktop/Repos/BaseballDraft/BaseballDraft/bin/Debug/net6.0/BaseballDraft.deps.json
+/Users/debrawinter/Desktop/Repos/BaseballDraft/BaseballDraft/bin/Debug/net6.0/BaseballDraft.runtimeconfig.json
+/Users/debrawinter/Desktop/Repos/BaseballDraft/BaseballDraft/bin/Debug/net6.0/BaseballDraft.dll
+/Users/debrawinter/Desktop/Repos/BaseballDraft/BaseballDraft/bin/Debug/net6.0/BaseballDraft.pdb
+/Users/debrawinter/Desktop/Repos/BaseballDraft/BaseballDraft/obj/Debug/net6.0/BaseballDraft.csproj.AssemblyReference.cache
+/Users/debrawinter/Desktop/Repos/BaseballDraft/BaseballDraft/obj/Debug/net6.0/BaseballDraft.GeneratedMSBuildEditorConfig.editorconfig
+/Users/debrawinter/Desktop/Repos/BaseballDraft/BaseballDraft/obj/Debug/net6.0/BaseballDraft.AssemblyInfoInputs.cache
+/Users/debrawinter/Desktop/Repos/BaseballDraft/BaseballDraft/obj/Debug/net6.0/BaseballDraft.AssemblyInfo.cs
+/Users/debrawinter/Desktop/Repos/BaseballDraft/BaseballDraft/obj/Debug/net6.0/BaseballDraft.csproj.CoreCompileInputs.cache
+/Users/debrawinter/Desktop/Repos/BaseballDraft/BaseballDraft/obj/Debug/net6.0/BaseballDraft.dll
+/Users/debrawinter/Desktop/Repos/BaseballDraft/BaseballDraft/obj/Debug/net6.0/refint/BaseballDraft.dll
+/Users/debrawinter/Desktop/Repos/BaseballDraft/BaseballDraft/obj/Debug/net6.0/BaseballDraft.pdb
+/Users/debrawinter/Desktop/Repos/BaseballDraft/BaseballDraft/obj/Debug/net6.0/BaseballDraft.genruntimeconfig.cache
+/Users/debrawinter/Desktop/Repos/BaseballDraft/BaseballDraft/obj/Debug/net6.0/ref/BaseballDraft.dll

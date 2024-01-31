@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{0A378CE7-EAF9-4166-8C59-6B71765A4DA8}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BaseballDraft/Program.cs">
+    <Files>
+      <File FileName="BaseballDraft/Program.cs" Line="9" Column="9" />
+      <File FileName="BaseballTeams/Program.cs" />
+      <File FileName="BaseballDraft/Pitcher.cs" />
+      <File FileName="BaseballDraft/Catcher.cs" Line="28" Column="45" />
+      <File FileName="BaseballDraft/Infielder.cs" />
+      <File FileName="BaseballDraft/Outfielder.cs" />
+      <File FileName="BaseballDraft/IPlayer.cs" />
+      <File FileName="BaseballDraft/Teams.cs" />
+      <File FileName="BaseballDraft/PlayerFactory.cs" Line="21" Column="4" />
+      <File FileName="BaseballDraft/Batter.cs" Line="4" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BaseballDraft" expanded="True">
+            <Node name="BaseballDraft" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.BaseballDraft PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>
